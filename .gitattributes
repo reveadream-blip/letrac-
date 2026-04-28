@@ -1,0 +1,2 @@
+# Scripts shell pour CI (Cloudflare Pages = Linux bash)
+scripts/*.sh text eol=lf

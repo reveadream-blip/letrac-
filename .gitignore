@@ -31,6 +31,9 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+
+# SDK Flutter téléchargé par scripts/cloudflare-pages-build.sh (CI uniquement)
+.flutter-sdk/
 /coverage/
 
 # Symbolication related
