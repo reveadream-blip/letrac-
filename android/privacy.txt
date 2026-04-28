@@ -1,0 +1,36 @@
+Politique de confidentialité – Le Tracé Magique de l’alphabet
+Dernière mise à jour : 24 avril 2026
+
+Le Tracé Magique de l’alphabet est une application éducative destinée aux enfants.
+Nous accordons une grande importance à la protection de la vie privée des utilisateurs.
+
+1) Données collectées
+Nous ne collectons pas de données personnelles nominatives (nom, email, téléphone, adresse).
+
+2) Données utilisées par l’application
+L’application peut enregistrer localement sur l’appareil certaines informations de progression (par exemple : lettres validées, score, étoiles, niveau), uniquement pour améliorer l’expérience utilisateur.
+
+Ces données :
+
+restent stockées localement sur l’appareil ;
+ne sont pas transmises à nos serveurs ;
+ne sont pas vendues ni partagées à des tiers.
+3) Compte utilisateur
+L’application ne nécessite pas la création d’un compte.
+
+4) Publicité
+L’application ne diffuse pas de publicité tierce.
+
+5) Enfants
+Cette application est conçue pour un usage éducatif par des enfants.
+Nous ne collectons pas intentionnellement de données personnelles concernant les enfants.
+
+6) Sécurité
+Nous prenons des mesures raisonnables pour protéger les informations stockées localement sur l’appareil.
+
+7) Modifications
+Cette politique de confidentialité peut être mise à jour. La date de mise à jour affichée en haut sera alors modifiée.
+
+8) Contact
+Pour toute question concernant cette politique de confidentialité :
+Email : contact.applimanagement@gmail.com
